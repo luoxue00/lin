@@ -1,4 +1,4 @@
-国内,#genre#
+国内(卡按左右换线路),#genre#
 CCTV1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 CCTV2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
 CCTV3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
@@ -62,19 +62,9 @@ CCTV17,http://60.10.139.113:8801/hls/98/index.m3u8
 青海卫视,http://60.10.139.113:8801/hls/56/index.m3u8
 宁夏卫视,http://60.10.139.113:8801/hls/57/index.m3u8
 内蒙古卫视,http://60.10.139.113:8801/hls/55/index.m3u8
-山西卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.211:5140
-陕西卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.223:5140
-内蒙古卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.217:5140
-兵团卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.221:5140
-西藏卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.222:5140
-宁夏卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.230:5140
-新疆卫视,http://jasonzhangnas.f3322.net:7088/udp/233.18.204.220:5140
-海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
-三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8#http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws#http://lxajh.top/tv/hn.php?id=hnws
-深圳卫视,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 
-港澳台,#genre#
+港澳台(卡按左右换线路),#genre#
 有线新闻欣赏,http://rihou.cc:555/tv/[Pd]有线新闻
 无线新闻欣赏,http://rihou.cc:555/tv/[Pd]无线新闻
 Now新闻欣赏,http://rihou.cc:555/tv/[Cx]Now新闻
@@ -141,7 +131,7 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
 民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
 
-国际,#genre#
+国际(卡按左右换线路),#genre#
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
@@ -193,7 +183,7 @@ CGTN-西,http://go.bkpcp.top/mg/cgtne
 CGTN-阿,http://go.bkpcp.top/mg/cgtna
 CGTN-法,http://go.bkpcp.top/mg/cgtnf
 
-影视娱乐,#genre#
+影视娱乐(卡按左右换线路),#genre#
 1985年央视春晚,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
 1986年央视春晚,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
 1987年央视春晚,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
